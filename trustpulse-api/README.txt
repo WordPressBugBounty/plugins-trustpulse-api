@@ -2,9 +2,9 @@
 Contributors: optinmonster, griffinjt, smub
 Tags: fomo, social proof, woocommerce, membership, ecommerce
 Requires at least: 3.5.1
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 5.3
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 License: GNU General Public License v2.0 or later
 
 TrustPulse is a FOMO social proof plugin that leverages the power of social proof to instantly boost site conversions by up to 15%!
@@ -75,7 +75,7 @@ This FOMO plugin is created by <a href="https://thomasgriffin.io" rel="friend" t
 
 = Branding Guideline =
 
-TrustPulse is a registered trademark of Retype LLC. When writing about the TrustPulse Social Proof plugin, please make sure to uppercase the letter T and P.
+TrustPulse is a registered trademark of Retyp, LLC. When writing about the TrustPulse Social Proof plugin, please make sure to uppercase the letter T and P.
 
 * TrustPulse (correct)
 * Trust Pulse (incorrect)
@@ -132,6 +132,9 @@ TrustPulse is the <a href="https://trustpulse.com" rel="friend" title="TrustPuls
 > Jared Atchison, Co-Founder at WPForms
 
 == Changelog ==
+
+= 1.2.4 =
+* Improve video playing experience.
 
 = 1.2.3 =
 * Reintroduces a page that lists information about TrustPulse as a company and other recommended plugins.
