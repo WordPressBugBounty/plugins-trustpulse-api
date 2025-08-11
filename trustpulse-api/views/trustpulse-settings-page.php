@@ -21,7 +21,7 @@ $url        = trustpulse_dir_uri();
 		</div>
 		<div class="tp-admin-box tp-admin-box--video">
 			<div id="tpVideo">
-				<iframe width="560" height="315" id="tpVideoIframe" src="https://www.youtube.com/embed/iRvZxNiujpg?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe width="560" height="315" id="tpVideoIframe" src="https://www.youtube.com/embed/iRvZxNiujpg" style="border: 0;" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 			<div id="tpVideoPreview">
 			<h3><?php esc_html_e( 'Start converting visitors into customers and subscribers!', 'trustpulse-api' ); ?></h3>

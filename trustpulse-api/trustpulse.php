@@ -4,7 +4,7 @@
  * Plugin URI:  https://trustpulse.com
  * Description: Easily Add the TrustPulse API Script to your Site
  * Author URI:  https://trustpulse.com
- * Version:     1.2.4
+ * Version:     1.2.5
  * Text Domain: trustpulse-api
  *
  * TrustPulse API Plugin is is free software: you can redistribute it and/or modify
@@ -108,7 +108,7 @@ class TPAPI {
 	 *
 	 * @var string
 	 */
-	public $version = '1.2.4';
+	public $version = '1.2.5';
 
 	/**
 	 * The name of the plugin.
